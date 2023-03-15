@@ -67,11 +67,41 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/ab16Myg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 3: CONFIGURE TICKET</h2>
+</h2>STEP 3: CONFIGURE "ENTIRE MOBILE BANKING" TICKET</h2>
 
   - Select the ticket "Entire mobile banking is down" 
   - Set the priority to "Emergency" and Assign ticket to Jane Doe. 
   - Set SLA to SEV-A 
   - Change the department to Systems Administrators
+  - Post a Reply as Jane
+  - Post a Reply as Jerry and resolve ticket
+</p>
+
+<br />
+<p>
+<img src="https://i.imgur.com/sETnIdT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 4: CONFIGURE "CANT ACCESS ADOBE READER" TICKET</h2>
+
+  - Go back to Open Tickets and open "Cant Access Adobe Reader"
+  - Set priority to High
+  - Set SLA to SEV-B
+  - Assign the ticket to John Doe
+  - Post a reply
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/Fz0xrH7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 5: CONFIGURE "WHEN ARE WE GETTING HARDWARE REFRESH" TICKET</h2>
+
+  - Go back to Open Tickets and open "When are we getting hardware refresh" Ticket
+  - Set Priority Level to Low
+  - Assign the ticket to Jane Doe
+  - Set SLA to SEV-C
+  - Reply to Karen "hardware refresh is slated for quarter 1"
+  - Select Resolved and Post Reply
 </p>
 <br />
