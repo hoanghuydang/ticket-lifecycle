@@ -67,7 +67,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/ab16Myg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 3: CONFIGURE "ENTIRE MOBILE BANKING" TICKET</h2>
+</h2>STEP 3: CONFIGURE & RESOLVE "ENTIRE MOBILE BANKING" TICKET</h2>
 
   - Select the ticket "Entire mobile banking is down" 
   - Set the priority to "Emergency" and Assign ticket to Jane Doe. 
@@ -95,7 +95,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/Fz0xrH7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 5: CONFIGURE "WHEN ARE WE GETTING HARDWARE REFRESH" TICKET</h2>
+</h2>STEP 5: CONFIGURE & RESOLVE "WHEN ARE WE GETTING HARDWARE REFRESH" TICKET</h2>
 
   - Go back to Open Tickets and open "When are we getting hardware refresh" Ticket
   - Set Priority Level to Low
@@ -103,5 +103,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Set SLA to SEV-C
   - Reply to Karen "hardware refresh is slated for quarter 1"
   - Select Resolved and Post Reply
+
+</p>
+<br />
+ <p>
+<img src="https://i.imgur.com/MeERK24.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 6: RESOLVE "CANT ACCESS ADOBE READER" TICKET</h2>
+
+  - Log into osTicket as John Doe
+  - Reply and post as John "I will uninstall the new version of adobe reader, and reinstall the old one so Accounting can get back to work"
+  - In the meantime John will research why the new version won't work
+  - Resolve the Ticket and Post Reply
 </p>
 <br />
