@@ -64,11 +64,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ab16Myg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 9: DOWNLOAD AND INSTALL VC_redist.86.exe</h2>
+</h2>STEP 3: CONFIGURE TICKET</h2>
 
-  - Google and Download VC_redist.8.exe
+  - Select the ticket "Entire mobile banking is down" 
+  - Set the priority to "Emergency" and Assign ticket to Jane Doe. 
+  - Set SLA to SEV-A 
+  - Change the department to Systems Administrators
 </p>
 <br />
