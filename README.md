@@ -48,12 +48,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3LTW6SH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 9: DOWNLOAD AND INSTALL VC_redist.86.exe</h2>
+  <p>
+<img src="https://i.imgur.com/ExGX3Me.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 2: LOGIN TO OSTICKET AS ADMIN</h2>
 
-  - Google and Download VC_redist.8.exe
+  - Admin Panel --> Agents --> Jane Doe --> Access --> Select "Support" Dept and make her Supreme Admin for Support --> Save Changes
+  - Then Logout of osTicket and sign back in as Jane Doe
+  - Now we should be able to view the tickets as Jane Doe
 </p>
 <br />
 
